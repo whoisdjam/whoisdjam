@@ -3,7 +3,7 @@
      ═══════════════════════════════════════════════════════════
      1. Create a public repo named exactly YOUR GitHub username
      2. Upload this file as README.md — nothing else needed
-     3. Replace YOUR_GITHUB_USERNAME (4 places) with your handle
+     3. Replace whoisdjam (4 places) with your handle
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- HERO -->
@@ -31,12 +31,12 @@
 <p align="center">
   <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDQyMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjQyMCIgaGVpZ2h0PSIyMDAiIHJ4PSI4IiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiMzMDM2M2QiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9IjIwIiB5PSIyNiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzNkNDQ1MSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4xPC90ZXh0Pjx0ZXh0IHg9IjYwIiB5PSIyNiIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2JjOGNmZiIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj5jb25zdCA8L3RleHQ+PHRleHQgeD0iMTAwLjgiIHk9IjI2IiBmb250LXNpemU9IjExIiBmaWxsPSIjNThhNmZmIiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPmRldmVsb3BlcjwvdGV4dD48dGV4dCB4PSIxNjIiIHk9IjI2IiBmb250LXNpemU9IjExIiBmaWxsPSIjYzlkMWQ5IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPiA9IHs8L3RleHQ+CiAgPHRleHQgeD0iMjAiIHk9IjQzIiBmb250LXNpemU9IjExIiBmaWxsPSIjM2Q0NDUxIiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPjI8L3RleHQ+PHRleHQgeD0iNjAiIHk9IjQzIiBmb250LXNpemU9IjExIiBmaWxsPSIjYzlkMWQ5IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPiAgcm9sZTogPC90ZXh0Pjx0ZXh0IHg9IjExNC40IiB5PSI0MyIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2Y3ODE2NiIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4iRnVsbCBTdGFjayBEZXZlbG9wZXIiPC90ZXh0Pjx0ZXh0IHg9IjI2NCIgeT0iNDMiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNjOWQxZDkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+LDwvdGV4dD4KICA8dGV4dCB4PSIyMCIgeT0iNjAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzZDQ0NTEiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+MzwvdGV4dD48dGV4dCB4PSI2MCIgeT0iNjAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNjOWQxZDkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+ICBmb2N1czogPC90ZXh0Pjx0ZXh0IHg9IjEyMS4xOTk5OTk5OTk5OTk5OSIgeT0iNjAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzOWQwZDgiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+WyJXZWIiLCAiTW9iaWxlIl08L3RleHQ+PHRleHQgeD0iMjM2Ljc5OTk5OTk5OTk5OTk4IiB5PSI2MCIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2M5ZDFkOSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4sPC90ZXh0PgogIDx0ZXh0IHg9IjIwIiB5PSI3NyIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzNkNDQ1MSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj40PC90ZXh0Pjx0ZXh0IHg9IjYwIiB5PSI3NyIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2M5ZDFkOSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4gIGV4cGVyaWVuY2U6IDwvdGV4dD48dGV4dCB4PSIxNTUuMiIgeT0iNzciIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNmNzgxNjYiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+IjgrIFllYXJzIjwvdGV4dD48dGV4dCB4PSIyMjMuMiIgeT0iNzciIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNjOWQxZDkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+LDwvdGV4dD4KICA8dGV4dCB4PSIyMCIgeT0iOTQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzZDQ0NTEiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+NTwvdGV4dD48dGV4dCB4PSI2MCIgeT0iOTQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNjOWQxZDkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+ICBjb2RlOiA8L3RleHQ+PHRleHQgeD0iMTE0LjQiIHk9Ijk0IiBmb250LXNpemU9IjExIiBmaWxsPSIjMzlkMGQ4IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPlsiSmF2YVNjcmlwdCIsICJUeXBlU2NyaXB0IiwgIlB5dGhvbiJdPC90ZXh0Pjx0ZXh0IHg9IjM3Mi43OTk5OTk5OTk5OTk5NSIgeT0iOTQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNjOWQxZDkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+LDwvdGV4dD4KICA8dGV4dCB4PSIyMCIgeT0iMTExIiBmb250LXNpemU9IjExIiBmaWxsPSIjM2Q0NDUxIiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPjY8L3RleHQ+PHRleHQgeD0iNjAiIHk9IjExMSIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2M5ZDFkOSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4gIGFyY2hpdGVjdHVyZTogPC90ZXh0Pjx0ZXh0IHg9IjE2OC44IiB5PSIxMTEiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzOWQwZDgiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+WyJNaWNyb3NlcnZpY2VzIiwgIlJFU1QgQVBJcyIsICJTZXJ2ZXJsZXNzIl08L3RleHQ+PHRleHQgeD0iNDY4IiB5PSIxMTEiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNjOWQxZDkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+LDwvdGV4dD4KICA8dGV4dCB4PSIyMCIgeT0iMTI4IiBmb250LXNpemU9IjExIiBmaWxsPSIjM2Q0NDUxIiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPjc8L3RleHQ+PHRleHQgeD0iNjAiIHk9IjEyOCIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2M5ZDFkOSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4gIHBhc3Npb246IDwvdGV4dD48dGV4dCB4PSIxMzQuOCIgeT0iMTI4IiBmb250LXNpemU9IjExIiBmaWxsPSIjZjc4MTY2IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPiJCdWlsZGluZyBwcm9kdWN0cyB0aGF0IG1ha2UgYSBkaWZmZXJlbmNlISI8L3RleHQ+PHRleHQgeD0iNDI3LjIiIHk9IjEyOCIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2M5ZDFkOSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsbW9ub3NwYWNlIj4sPC90ZXh0PgogIDx0ZXh0IHg9IjIwIiB5PSIxNDUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzZDQ0NTEiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+ODwvdGV4dD48dGV4dCB4PSI2MCIgeT0iMTQ1IiBmb250LXNpemU9IjExIiBmaWxsPSIjYzlkMWQ5IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPn07PC90ZXh0PgogIDx0ZXh0IHg9IjIwIiB5PSIxNjIiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzZDQ0NTEiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+OTwvdGV4dD4KICA8dGV4dCB4PSIyMCIgeT0iMTc5IiBmb250LXNpemU9IjExIiBmaWxsPSIjM2Q0NDUxIiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiPjEwPC90ZXh0Pjx0ZXh0IHg9IjYwIiB5PSIxNzkiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzZmI5NTAiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLG1vbm9zcGFjZSI+Ly8gQWx3YXlzIGxlYXJuaW5nLCBhbHdheXMgYnVpbGRpbmcg8J+agDwvdGV4dD4KPC9zdmc+" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=161b22&title_color=39d0d8&icon_color=58a6ff&text_color=c9d1d9" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whoisdjam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=161b22&title_color=39d0d8&icon_color=58a6ff&text_color=c9d1d9" height="200"/>
 </p>
 
 <!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=github_dark&hide_border=true&bg_color=161b22&title_color=39d0d8&text_color=c9d1d9&langs_count=4" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdjam&layout=donut&theme=github_dark&hide_border=true&bg_color=161b22&title_color=39d0d8&text_color=c9d1d9&langs_count=4" height="160"/>
 </p>
 
 <br/>
@@ -48,12 +48,12 @@
 
 <!-- STREAK STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=bc8cff&currStreakLabel=39d0d8" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoisdjam&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=bc8cff&currStreakLabel=39d0d8" width="500"/>
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=161b22&color=58a6ff&line=bc8cff&point=39d0d8&hide_border=true" width="860"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisdjam&theme=github-compact&bg_color=161b22&color=58a6ff&line=bc8cff&point=39d0d8&hide_border=true" width="860"/>
 </p>
 
 <br/>
@@ -67,7 +67,7 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=%F0%9F%91%81%20Profile%20Views&color=6f42c1&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=whoisdjam&label=%F0%9F%91%81%20Profile%20Views&color=6f42c1&style=flat-square"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20Updated-June%202025-%230d1117?style=flat-square&color=30363d"/>
 </p>
