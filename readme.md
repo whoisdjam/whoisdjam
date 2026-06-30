@@ -10,14 +10,6 @@
 
 <sub>I build fast, scalable, and modern web &amp; mobile applications<br/>with clean code and great user experiences.</sub>
 
-<br/><br/>
-
-<br/><br/>
-
-<sub>📍 Your Location &nbsp;·&nbsp; 🚀 Open to Work &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=flat&label=Profile+Views" height="18"/></sub>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/-50%2B%20Happy%20Clients-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
 <img src="https://img.shields.io/badge/-Frontend%20Focused-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
 <img src="https://img.shields.io/badge/-Modern%20UI%2FUX-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
