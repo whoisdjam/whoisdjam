@@ -2,26 +2,43 @@
 
 <div align="center">
 
-# Hi there 👋, I'm Binary
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Binary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### Full Stack Developer | Web & Mobile Specialist
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;Building+with+React+%2B+Node+%2B+Next.js;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
 
 I build fast, scalable, and modern web & mobile applications with clean code and great user experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-📍 Your Location &nbsp;•&nbsp; 🚀 Open to Work
+📍 Your Location &nbsp;|&nbsp; 🚀 Open to Work
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Frontend%20Focused-blue?style=flat-square)
-![UI/UX](https://img.shields.io/badge/Modern-UI%2FUX-purple?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend-Aware-green?style=flat-square)
-![Systems](https://img.shields.io/badge/Scalable-Systems-orange?style=flat-square)
-![Clients](https://img.shields.io/badge/50%2B-Happy%20Clients-success?style=flat-square)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=flat-square&label=Profile+Views" />
+&nbsp;
+![Happy Clients](https://img.shields.io/badge/50%2B-Happy%20Clients-22C55E?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Frontend%20Focused-38BDF8?style=flat-square)
+![UI/UX](https://img.shields.io/badge/Modern-UI%2FUX-A855F7?style=flat-square)
+
+<br/><br/>
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,js,tailwind,mongodb,postgres,git,figma&theme=dark" />
 
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 ---
 
 ## 🧰 Tech Stack
