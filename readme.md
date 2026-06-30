@@ -2,13 +2,23 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=&fontSize=0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&pause=1500&color=F8FAFC&center=true&vCenter=true&width=500&height=50&lines=Hi+there%2C+I'm+Binary+%F0%9F%91%8B" alt="Name" />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=40&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;React+%C2%B7+Node.js+%C2%B7+Next.js" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1500&color=F8FAFC&center=true&vCenter=true&width=750&height=60&lines=Hi+there%2C+I'm+Binary+%F0%9F%91%8B" alt="Name" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;React+%C2%B7+Node.js+%C2%B7+Next.js" alt="Role" />
+
+<br/>
+
+<table>
+<tr><td>
+
 <sub>I build fast, scalable, and modern web &amp; mobile applications<br/>with clean code and great user experiences.</sub>
+
+</td></tr>
+</table>
 
 <img src="https://img.shields.io/badge/-50%2B%20Happy%20Clients-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
 <img src="https://img.shields.io/badge/-Frontend%20Focused-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
