@@ -1,26 +1,35 @@
 <div align="center">
 
-# Hi there 👋, I'm
+<sub>Hi there 👋, I'm</sub>
 
-# **Binary**
+# Binary
 
 ### Full Stack Developer | Web & Mobile Specialist
 
 *I build **fast**, **scalable**, and **modern** web & mobile applications with clean code and great user experiences.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/whoisdjam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<br>
 
-![Full Stack](https://img.shields.io/badge/-FULL%20STACK-61DAFB?style=flat-square&logoColor=black)
-![Frontend Focused](https://img.shields.io/badge/-FRONTEND%20FOCUSED-A855F7?style=flat-square)
-![Modern UI/UX](https://img.shields.io/badge/-MODERN%20UI%2FUX-06B6D4?style=flat-square)
-![Backend Aware](https://img.shields.io/badge/-BACKEND%20AWARE-22C55E?style=flat-square)
-![Scalable Systems](https://img.shields.io/badge/-SCALABLE%20SYSTEMS-F59E0B?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/🗨_Portfolio-0d1117?style=flat-square&logoColor=white)](https://github.com/whoisdjam)
+[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/whoisdjam)
+[![Email](https://img.shields.io/badge/✉_Email-0d1117?style=flat-square&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/📍_Location-0d1117?style=flat-square&logoColor=white)](#)
 
-| 50+ Happy Clients |
-|:-----------------:|
-| 🚀 Open to Work   |
+<br>
+
+![](https://img.shields.io/badge/FULL%20STACK-1f4068?style=flat-square&labelColor=1f4068&color=1f4068&logoColor=58a6ff) &nbsp;
+![](https://img.shields.io/badge/FRONTEND%20FOCUSED-2d1f6b?style=flat-square&color=2d1f6b) &nbsp;
+![](https://img.shields.io/badge/MODERN%20UI%2FUX-0f3744?style=flat-square&color=0f3744) &nbsp;
+![](https://img.shields.io/badge/BACKEND%20AWARE-0f2e1a?style=flat-square&color=0f2e1a) &nbsp;
+![](https://img.shields.io/badge/SCALABLE%20SYSTEMS-3d2200?style=flat-square&color=3d2200)
+
+<br>
+
+<table><tr>
+<td align="center"><b>50+</b><br><sub>Happy Clients</sub></td>
+</tr></table>
+
+[![Open to Work](https://img.shields.io/badge/🚀_Open_to_Work-1f4068?style=for-the-badge&color=1f4068&labelColor=1f4068)](https://github.com/whoisdjam)
 
 </div>
 
@@ -28,76 +37,117 @@
 
 ## 🧰 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<table>
+<tr>
+<td align="center" width="19%"><b style="color:#58a6ff">Frontend</b></td>
+<td align="center" width="19%"><b style="color:#f778ba">Backend</b></td>
+<td align="center" width="19%"><b style="color:#39d0e0">Mobile</b></td>
+<td align="center" width="19%"><b style="color:#3fb950">Database & Cloud</b></td>
+<td align="center" width="24%"><b style="color:#f0883e">Tools & Others</b></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts&theme=dark&perline=5" />
+  <br><sub>React · Next.js · Vue · Angular · TypeScript</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php&theme=dark&perline=4" />
+  <br><sub>Node.js · Express · Python · PHP</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" />
+  <br><sub>Flutter · React Native</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws&theme=dark&perline=4" />
+  <br><sub>MongoDB · PostgreSQL · Redis · AWS</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark&perline=4" />
+  <br><sub>Docker · Git · GitHub · VS Code</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💎 Core Strengths
 
-| </> Clean Code | ⚡ Performance | 🎨 UI/UX Focus | 🧩 Problem Solver | 👥 Team Player |
-|:---:|:---:|:---:|:---:|:---:|
-| Writing maintainable, testable and efficient code | Optimizing speed, scalability and user experience | Designing intuitive and engaging user interfaces | Turning complex problems into simple solutions | Collaborating effectively in agile environments |
+<table>
+<tr>
+<td align="center" width="20%">
+<kbd>⌨️ Clean Code</kbd>
+<br><br>
+<sub>Writing maintainable, testable and efficient code.</sub>
+</td>
+<td align="center" width="20%">
+<kbd>⚡ Performance</kbd>
+<br><br>
+<sub>Optimizing speed, scalability and user experience.</sub>
+</td>
+<td align="center" width="20%">
+<kbd>🎨 UI/UX Focus</kbd>
+<br><br>
+<sub>Designing intuitive and engaging user interfaces.</sub>
+</td>
+<td align="center" width="20%">
+<kbd>🧩 Problem Solver</kbd>
+<br><br>
+<sub>Turning complex problems into simple solutions.</sub>
+</td>
+<td align="center" width="20%">
+<kbd>👥 Team Player</kbd>
+<br><br>
+<sub>Collaborating effectively in agile environments.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 👨‍💻 Developer Overview
+
+<table>
+<tr>
+<td width="50%">
 
 ```javascript
 const developer = {
   name: "Binary",
   role: "Full Stack Developer",
   focus: ["Web", "Mobile"],
-  code: ["JavaScript", "TypeScript", "Python", "PHP"],
-  architecture: ["Microservices", "REST APIs", "Serverless"],
-  passion: "Building products that make a difference!"
+  code: ["JavaScript", "TypeScript",
+         "Python", "PHP"],
+  architecture: ["Microservices",
+                 "REST APIs",
+                 "Serverless"],
+  passion: "Building products that
+            make a difference!"
 };
 
 // Always learning, always building 🚀
 ```
 
----
+</td>
+<td width="50%">
 
-## 📊 GitHub Stats
+**⌨️ GitHub Stats**
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=whoisdjam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9&ring_color=58a6ff)
 
-![whoisdjam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisdjam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=A855F7&text_color=ffffff)
+**🗣 Top Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdjam&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdjam&layout=donut&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=whoisdjam&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=A855F7&fire=F59E0B&currStreakLabel=61DAFB)
+</td>
+</tr>
+</table>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoisdjam&theme=react-dark&bg_color=0D1117&color=61DAFB&line=A855F7&point=ffffff&hide_border=true)
+**📊 Contribution Graph**
 
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=whoisdjam&theme=react-dark&bg_color=161b22&color=58a6ff&line=a371f7&point=ffffff&hide_border=true&area=true&area_color=2d1f6b)
+
+![](https://streak-stats.demolab.com?user=whoisdjam&theme=tokyonight&hide_border=true&background=161b22&stroke=30363d&ring=a371f7&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
 
 ---
 
@@ -105,12 +155,10 @@ const developer = {
 
 > *"Code is like humor. When you have to explain it, it's bad."*
 >
-> **— Cory House**
+> **— Cory House** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `</>`
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=whoisdjam&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS)
-
-*Last Updated: June 2025*
+👁 Profile Views &nbsp; ![](https://komarev.com/ghpvc/?username=whoisdjam&color=a371f7&style=flat-square&label=) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📅 *Last Updated: June 2025*
 
 </div>
