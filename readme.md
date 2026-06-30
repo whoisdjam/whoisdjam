@@ -1,51 +1,39 @@
 <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=&fontSize=0" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20There,%20I'm%20Binary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&pause=1500&color=F8FAFC&center=true&vCenter=true&width=500&height=50&lines=Hi+there%2C+I'm+Binary+%F0%9F%91%8B" alt="Name" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;React+%2B+Node+%2B+Next.js;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
-<p width="600">
-I build fast, scalable, and modern web &amp; mobile applications<br/>
-with clean code and great user experiences.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=40&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;React+%C2%B7+Node.js+%C2%B7+Next.js" alt="Role" />
 
 <br/>
 
-<br/><br/>
-
-📍 &nbsp;Your Location&nbsp;&nbsp;|&nbsp;&nbsp;🚀 &nbsp;Open to Work
+<sub>I build fast, scalable, and modern web &amp; mobile applications<br/>with clean code and great user experiences.</sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/50+-Happy%20Clients-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack-Frontend%20Focused-38BDF8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Modern-UI%2FUX-A855F7?style=for-the-badge" />
+<sub>📍 Your Location &nbsp;·&nbsp; 🚀 Open to Work &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=flat&label=Profile+Views" height="18"/></sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+<img src="https://img.shields.io/badge/-50%2B%20Happy%20Clients-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
+<img src="https://img.shields.io/badge/-Frontend%20Focused-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
+<img src="https://img.shields.io/badge/-Modern%20UI%2FUX-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
 
 </div>
 
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,js,tailwind,mongodb,postgres,git,figma&theme=dark" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 ---
 
 ## 🧰 Tech Stack
