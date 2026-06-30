@@ -12,12 +12,6 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
-
 <br/><br/>
 
 <sub>📍 Your Location &nbsp;·&nbsp; 🚀 Open to Work &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=flat&label=Profile+Views" height="18"/></sub>
