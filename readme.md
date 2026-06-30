@@ -2,33 +2,40 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Binary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;Building+with+React+%2B+Node+%2B+Next.js;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20There,%20I'm%20Binary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <br/>
 
-I build fast, scalable, and modern web & mobile applications with clean code and great user experiences.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-📍 Your Location &nbsp;|&nbsp; 🚀 Open to Work
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=flat-square&label=Profile+Views" />
-&nbsp;
-![Happy Clients](https://img.shields.io/badge/50%2B-Happy%20Clients-22C55E?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Frontend%20Focused-38BDF8?style=flat-square)
-![UI/UX](https://img.shields.io/badge/Modern-UI%2FUX-A855F7?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;React+%2B+Node+%2B+Next.js;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
+
+<p width="600">
+I build fast, scalable, and modern web &amp; mobile applications<br/>
+with clean code and great user experiences.
+</p>
+
+<br/>
+
+<br/><br/>
+
+📍 &nbsp;Your Location&nbsp;&nbsp;|&nbsp;&nbsp;🚀 &nbsp;Open to Work
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/50+-Happy%20Clients-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-Frontend%20Focused-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Modern-UI%2FUX-A855F7?style=for-the-badge" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+
+</div>
 
 ### 🛠️ Tech Stack
 
