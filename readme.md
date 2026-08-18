@@ -100,43 +100,6 @@
 </tr>
 </table>
 
----
-
-## 👨‍💻 Developer Overview
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-const developer = {
-  name: "Binary",
-  role: "Full Stack Developer",
-  focus: ["Web", "Mobile"],
-  code: ["JavaScript", "TypeScript",
-         "Python", "PHP"],
-  architecture: ["Microservices",
-                 "REST APIs",
-                 "Serverless"],
-  passion: "Building products that
-            make a difference!"
-};
-
-// Always learning, always building 🚀
-```
-
-</td>
-<td width="50%">
-
-**⌨️ GitHub Stats**
-
-![](https://github-readme-stats.vercel.app/api?username=whoisdjam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9&ring_color=58a6ff)
-
-**🗣 Top Languages**
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdjam&layout=donut&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9)
-
-</td>
 </tr>
 </table>
 
