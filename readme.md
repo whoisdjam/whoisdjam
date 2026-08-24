@@ -15,7 +15,7 @@
 <table>
 <tr><td>
 
-<sub>I build fast, scalable, and modern web &amp; mobile applications<br/>with clean code and great user experiences.</sub>
+<sub>I build scalable AI-powered products and full-stack applications, specializing in LLM integrations, intelligent automation, and modern web architectures. Turning complex ideas into high-performance, production-ready solutions.</sub>
 
 </td></tr>
 </table>
