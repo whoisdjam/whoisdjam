@@ -15,7 +15,7 @@
 <table>
 <tr><td>
 
-<sub>I build scalable AI-powered products and full-stack applications, specializing in LLM integrations,<br />  intelligent automation,and modern web architectures.Turning complex ideas into high-performance, production-ready solutions.</sub>
+<sub>I build scalable AI-powered products and full-stack applications, specializing in LLM integrations,<br />  intelligent automation,and modern web architectures.<br />Turning complex ideas into high-performance, production-ready solutions.</sub>
 
 </td></tr>
 </table>
