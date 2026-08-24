@@ -21,7 +21,7 @@
 </table>
 
 <img src="https://img.shields.io/badge/-50%2B%20Happy%20Clients-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
-<img src="https://img.shields.io/badge/-Frontend%20Focused-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
+<img src="https://img.shields.io/badge/-AI solution%20Focused-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
 <img src="https://img.shields.io/badge/-Modern%20UI%2FUX-1E293B?style=flat-square&labelColor=1E293B&color=38BDF8" />
 
 <br/><br/>
